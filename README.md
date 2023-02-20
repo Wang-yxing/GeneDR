@@ -8,5 +8,25 @@ This is a project about drug-disease link prediction for our paper under preview
 * pandas == 1.3.4
 * networkx == 2.6.3
 
-Datasets will be uploaded soon.
+# Installation
+```bash
+pip install -r requirements.txt
+```
 
+# Data Download
+* Dataset 1
+* Dataset 2
+(Datasets will be uploaded soon.)
+
+# Scripts Description
+* /model/
+** model.py
+** 
+* dataset.py
+* utils.py
+* main.py
+
+# Example to Run
+```bash
+python main.py
+```
