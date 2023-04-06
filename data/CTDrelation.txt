@@ -1,0 +1,53 @@
+abundance	remove
+activity	Z
+binding	B
+cotreatment	remove
+expression	E
+folding	E
+localization	E
+metabolic processing	K
+acetylation	K
+acylation	K
+alkylation	K
+amination	K
+carbamoylation	K
+carboxylation	K
+chemical synthesis	K
+degradation	K
+cleavage	K
+hydrolysis	K
+ethylation	K
+glutathionylation	K
+glycation	K
+glycosylation	K
+glucuronidation	K
+N-linked glycosylation	K
+O-linked glycosylation	K
+hydroxylation	K
+lipidation	K
+farnesylation	K
+geranoylation	K
+myristoylation	K
+palmitoylation	K
+prenylation	K
+methylation	K
+nitrosation	K
+nucleotidylation	K
+oxidation	K
+phosphorylation	K
+reduction	K
+ribosylation	K
+ADP-ribosylation	K
+sulfation	K
+sumoylation	K
+ubiquitination	K
+mutagenesis	E
+reaction	K
+response to substance	Z
+splicing	E
+stability	E
+transport	O
+secretion	O
+export	O
+uptake	O
+import	O
