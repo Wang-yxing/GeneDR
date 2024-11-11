@@ -1,6 +1,6 @@
 # GeneDR
 
-This is a project about drug-disease link prediction for our paper under preview.
+This is a project about drug-disease link prediction for our paper under review.
 
 # Environment Requirement
 * pytorch == 1.8.1+cu111
